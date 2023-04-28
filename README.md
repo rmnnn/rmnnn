@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rmnnn
+- 👋 Hi, I’m Ermin
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on real life projects
